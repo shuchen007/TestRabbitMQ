@@ -1,0 +1,2264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="303d0cdf-c6bd-4ad4-93ec-e7431a2c7f90" name="Default" comment="" />
+    <ignored path="TestRabbitMQ.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TestRabbitMQ" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Send.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Recv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BaseConnector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MessageInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Receiver.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRabbitMQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRabbitMQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRabbitMQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRabbitMQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRabbitMQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRabbitMQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRabbitMQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRabbitMQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRabbitMQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.1908046" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springmvc zhou/03springmvc_annotation" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="false" name="Send" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Send" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TestRabbitMQ" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Recv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Recv" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TestRabbitMQ" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TestRabbitMQ" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TestRabbitMQ" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Send" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Recv" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Recv" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Send" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\sunhao\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="303d0cdf-c6bd-4ad4-93ec-e7431a2c7f90" name="Default" comment="" />
+      <created>1525671247485</created>
+      <option name="number" value="Default" />
+      <updated>1525671247485</updated>
+      <workItem from="1525671249182" duration="7396000" />
+      <workItem from="1525741508998" duration="8989000" />
+      <workItem from="1525914222323" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17034000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3846154" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13266872" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23236196" sideWeight="0.4883721" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26533744" sideWeight="0.5116279" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329806" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41269842" sideWeight="0.4969743" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32451499" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864675" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="FLOATING" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="854" y="15" width="430" height="147" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41975307" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26533744" sideWeight="0.5116279" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33509701" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/BaseConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MessageInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Receiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="5" selection-start-line="43" selection-start-column="51" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_INITIAL_CAPACITY#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#MAXIMUM_CAPACITY#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_LOAD_FACTOR#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#TREEIFY_THRESHOLD#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#UNTREEIFY_THRESHOLD#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#MIN_TREEIFY_CAPACITY#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#Node#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getKey#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getValue#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#setValue#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#hash#0;class#HashMap#0" expanded="false" />
+            <element signature="method#hash#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#comparableClassFor#0;class#HashMap#0" expanded="false" />
+            <element signature="method#comparableClassFor#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#compareComparables#0;class#HashMap#0" expanded="false" />
+            <element signature="method#compareComparables#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#tableSizeFor#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tableSizeFor#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#table#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#entrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#size#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#modCount#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#threshold#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#loadFactor#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#0;class#HashMap#0" expanded="false" />
+            <element signature="method#HashMap#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#1;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#2;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#3;class#HashMap#0" expanded="false" />
+            <element signature="method#HashMap#3;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putMapEntries#0;class#HashMap#0" expanded="false" />
+            <element signature="method#putMapEntries#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#getNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#containsKey#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#put#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putVal#0;class#HashMap#0" expanded="false" />
+            <element signature="method#putVal#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#resize#0;class#HashMap#0" expanded="false" />
+            <element signature="method#resize#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#treeifyBin#0;class#HashMap#0" expanded="false" />
+            <element signature="method#treeifyBin#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putAll#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#HashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#removeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#removeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#containsValue#0;class#HashMap#0" expanded="false" />
+            <element signature="method#containsValue#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#keySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#keySet#0;class#HashMap#0" expanded="false" />
+            <element signature="class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#size#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#values#0;class#HashMap#0" expanded="false" />
+            <element signature="class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#size#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#entrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#entrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#size#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getOrDefault#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replace#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replace#1;class#HashMap#0" expanded="false" />
+            <element signature="method#computeIfAbsent#0;class#HashMap#0" expanded="false" />
+            <element signature="method#computeIfPresent#0;class#HashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#HashMap#0" expanded="false" />
+            <element signature="method#merge#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replaceAll#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#HashMap#0" expanded="false" />
+            <element signature="e#50734#50764#0" expanded="false" />
+            <element signature="method#clone#0;class#HashMap#0" expanded="false" />
+            <element signature="method#loadFactor#0;class#HashMap#0" expanded="false" />
+            <element signature="method#capacity#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#HashMap#0" expanded="false" />
+            <element signature="method#writeObject#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#HashMap#0" expanded="false" />
+            <element signature="method#readObject#0;class#HashMap#0" expanded="false" />
+            <element signature="e#53153#53179#0" expanded="false" />
+            <element signature="class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#HashIterator#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#nextNode#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#KeyIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#next#0;class#KeyIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#ValueIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#next#0;class#ValueIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#EntryIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#next#0;class#EntryIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#HashMapSpliterator#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getFence#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#KeySpliterator#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#ValueSpliterator#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#EntrySpliterator#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#newTreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replacementTreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#reinitialize#0;class#HashMap#0" expanded="false" />
+            <element signature="method#reinitialize#0;class#HashMap#0" expanded="false" />
+            <element signature="method#internalWriteEntries#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#root#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#root#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#moveRootToFront#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#moveRootToFront#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#find#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#find#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#getTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#tieBreakOrder#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tieBreakOrder#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#treeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#treeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#untreeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#untreeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putTreeVal#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#putTreeVal#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#removeTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#removeTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#split#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#split#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#rotateLeft#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#rotateRight#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#balanceInsertion#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#balanceDeletion#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#checkInvariants#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#checkInvariants#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="914" column="0" selection-start-line="914" selection-start-column="0" selection-end-line="914" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MAXIMUM_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MAX_ARRAY_SIZE#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_CONCURRENCY_LEVEL#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#LOAD_FACTOR#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#TREEIFY_THRESHOLD#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#UNTREEIFY_THRESHOLD#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MIN_TREEIFY_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MIN_TRANSFER_STRIDE#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#RESIZE_STAMP_BITS#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MAX_RESIZERS#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#RESIZE_STAMP_SHIFT#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#NCPU#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#serialPersistentFields#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#Node#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getKey#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getValue#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#find#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#find#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#spread#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#tableSizeFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tableSizeFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#comparableClassFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#comparableClassFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#compareComparables#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compareComparables#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tabAt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#casTabAt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#setTabAt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#table#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#nextTable#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#baseCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#sizeCtl#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#transferIndex#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#cellsBusy#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#counterCells#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ConcurrentHashMap#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ConcurrentHashMap#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ConcurrentHashMap#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#3;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#4;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#size#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#get#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#containsKey#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#containsValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#containsValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#put#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putVal#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#putVal#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putAll#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#putAll#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#replaceNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replaceNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#keySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#keySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#values#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#values#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#entrySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#entrySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#Segment#0;class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#writeObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="e#59648#59682#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#readObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#replace#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replace#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#replace#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replace#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#getOrDefault#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getOrDefault#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replaceAll#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#computeIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#computeIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#computeIfPresent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#computeIfPresent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#compute#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#merge#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#merge#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#keys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#keys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#elements#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#elements#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#mappingCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#mappingCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#newKeySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#newKeySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#newKeySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#newKeySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#keySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#keySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForwardingNode#0;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#find#0;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#ReservationNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReservationNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#resizeStamp#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#initTable#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#initTable#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#addCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#addCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#helpTransfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#helpTransfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#tryPresize#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryPresize#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#transfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#transfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#CounterCell#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#CounterCell#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#CounterCell#0;class#CounterCell#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#sumCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#fullAddCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#treeifyBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#treeifyBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#untreeify#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#untreeify#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#TreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#findTreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#findTreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#tieBreakOrder#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tieBreakOrder#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#TreeBin#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#TreeBin#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#lockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#lockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#unlockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#contendedLock#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#contendedLock#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#find#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#find#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putTreeVal#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#putTreeVal#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#removeTreeNode#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#removeTreeNode#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#rotateLeft#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#rotateRight#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#balanceInsertion#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#balanceDeletion#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#checkInvariants#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#checkInvariants#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="initializer##0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#TableStack#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#TableStack#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#Traverser#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#advance#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#advance#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#pushState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#pushState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#recoverState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#recoverState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#BaseIterator#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hasNext#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hasMoreElements#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#KeyIterator#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#next#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#nextElement#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ValueIterator#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#next#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#nextElement#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#EntryIterator#0;class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#next#0;class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapEntry#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getKey#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#setValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#setValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#KeySpliterator#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ValueSpliterator#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#EntrySpliterator#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#batchFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#batchFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEach#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEach#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#search#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#search#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduce#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduce#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachKey#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachKey#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachKey#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachKey#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#searchKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#searchKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeys#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeys#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeysToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeysToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeysToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeysToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeysToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeysToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachValue#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachValue#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#searchValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#searchValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValues#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValues#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValuesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValuesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValuesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValuesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValuesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValuesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachEntry#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachEntry#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#searchEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#searchEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntries#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntries#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntriesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntriesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntriesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntriesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntriesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntriesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#CollectionView#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#getMap#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getMap#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#size#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#isEmpty#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="e#182321#182386#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toArray#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toArray#1;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#containsAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#removeAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#retainAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#KeySetView#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#getMappedValue#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getMappedValue#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#add#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#addAll#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#addAll#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ValuesView#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#EntrySetView#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#addAll#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#BulkTask#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#advance#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#advance#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#pushState#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#recoverState#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachKeyTask#0;class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachValueTask#0;class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachEntryTask#0;class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachMappingTask#0;class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedKeyTask#0;class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedValueTask#0;class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedEntryTask#0;class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedMappingTask#0;class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchKeysTask#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchValuesTask#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchEntriesTask#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchMappingsTask#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ReduceKeysTask#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ReduceValuesTask#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ReduceEntriesTask#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysTask#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesTask#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesTask#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsTask#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysToDoubleTask#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesToDoubleTask#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesToDoubleTask#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsToDoubleTask#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysToLongTask#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesToLongTask#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesToLongTask#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsToLongTask#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysToIntTask#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesToIntTask#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesToIntTask#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsToIntTask#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="initializer##0;class#ConcurrentHashMap#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="9" selection-start-line="6" selection-start-column="36" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BaseConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MessageInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Receiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/3.0.4/amqp-client-3.0.4.jar!/com/rabbitmq/client/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36764705">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.206897">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/3.0.4/amqp-client-3.0.4.jar!/com/rabbitmq/client/ConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.857143">
+          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/3.0.4/amqp-client-3.0.4.jar!/com/rabbitmq/client/Channel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36764705">
+          <caret line="132" column="11" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2639406">
+          <caret line="444" column="7" selection-start-line="444" selection-start-column="7" selection-end-line="444" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/SerializationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0408922">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/3.0.4/amqp-client-3.0.4.jar!/com/rabbitmq/client/Consumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39215687">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Send.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Recv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6666667">
+          <caret line="37" column="60" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="9" selection-start-line="6" selection-start-column="36" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37174723">
+          <caret line="965" column="0" selection-start-line="965" selection-start-column="0" selection-end-line="965" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MAXIMUM_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MAX_ARRAY_SIZE#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_CONCURRENCY_LEVEL#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#LOAD_FACTOR#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#TREEIFY_THRESHOLD#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#UNTREEIFY_THRESHOLD#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MIN_TREEIFY_CAPACITY#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MIN_TRANSFER_STRIDE#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#RESIZE_STAMP_BITS#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#MAX_RESIZERS#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#RESIZE_STAMP_SHIFT#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#NCPU#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#serialPersistentFields#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#Node#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getKey#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getValue#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#find#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#find#0;class#Node#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#spread#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#tableSizeFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tableSizeFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#comparableClassFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#comparableClassFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#compareComparables#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compareComparables#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tabAt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#casTabAt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#setTabAt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#table#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#nextTable#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#baseCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#sizeCtl#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#transferIndex#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#cellsBusy#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;field#counterCells#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ConcurrentHashMap#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ConcurrentHashMap#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ConcurrentHashMap#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#3;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#ConcurrentHashMap#4;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#size#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#get#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#containsKey#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#containsValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#containsValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#put#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putVal#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#putVal#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putAll#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#putAll#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#replaceNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replaceNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#keySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#keySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#values#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#values#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#entrySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#entrySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#Segment#0;class#Segment#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#writeObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="e#59648#59682#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#readObject#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#replace#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replace#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#replace#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replace#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#getOrDefault#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getOrDefault#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#replaceAll#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#computeIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#computeIfAbsent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#computeIfPresent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#computeIfPresent#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#compute#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#merge#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#merge#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#keys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#keys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#elements#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#elements#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#mappingCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#mappingCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#newKeySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#newKeySet#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#newKeySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#newKeySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#keySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#keySet#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForwardingNode#0;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#find#0;class#ForwardingNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#ReservationNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReservationNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#resizeStamp#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#initTable#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#initTable#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#addCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#addCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#helpTransfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#helpTransfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#tryPresize#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryPresize#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#transfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#transfer#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#CounterCell#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#CounterCell#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#CounterCell#0;class#CounterCell#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#sumCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#fullAddCount#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#treeifyBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#treeifyBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#untreeify#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#untreeify#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#TreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#findTreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#findTreeNode#0;class#TreeNode#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#tieBreakOrder#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tieBreakOrder#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#TreeBin#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#TreeBin#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#lockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#lockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#unlockRoot#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#contendedLock#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#contendedLock#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#find#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#find#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#putTreeVal#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#putTreeVal#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#removeTreeNode#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#removeTreeNode#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#rotateLeft#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#rotateRight#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#balanceInsertion#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#balanceDeletion#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#checkInvariants#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#checkInvariants#0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="initializer##0;class#TreeBin#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#TableStack#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#TableStack#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#Traverser#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#advance#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#advance#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#pushState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#pushState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#recoverState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#recoverState#0;class#Traverser#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#BaseIterator#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hasNext#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hasMoreElements#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#BaseIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#KeyIterator#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#next#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#nextElement#0;class#KeyIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ValueIterator#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#next#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#nextElement#0;class#ValueIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#EntryIterator#0;class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#next#0;class#EntryIterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapEntry#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getKey#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#setValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#setValue#0;class#MapEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#KeySpliterator#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#KeySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ValueSpliterator#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#ValueSpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#EntrySpliterator#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#EntrySpliterator#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#batchFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#batchFor#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEach#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEach#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#2;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#search#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#search#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduce#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduce#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachKey#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachKey#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachKey#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachKey#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#searchKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#searchKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeys#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeys#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeys#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeysToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeysToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeysToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeysToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceKeysToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceKeysToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachValue#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachValue#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachValue#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#searchValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#searchValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValues#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValues#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValues#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValuesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValuesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValuesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValuesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceValuesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceValuesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachEntry#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#forEachEntry#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEachEntry#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#searchEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#searchEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntries#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntries#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntries#1;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntriesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntriesToDouble#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntriesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntriesToLong#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#reduceEntriesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#reduceEntriesToInt#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#CollectionView#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#getMap#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getMap#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#size#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#isEmpty#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="e#182321#182386#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toArray#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toArray#1;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#containsAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#removeAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#retainAll#0;class#CollectionView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#KeySetView#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#getMappedValue#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getMappedValue#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#add#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#addAll#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#addAll#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#KeySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ValuesView#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#ValuesView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#EntrySetView#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#addAll#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#hashCode#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#EntrySetView#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#BulkTask#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="docComment;method#advance#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#advance#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#pushState#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#recoverState#0;class#BulkTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachKeyTask#0;class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachValueTask#0;class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachEntryTask#0;class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachMappingTask#0;class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedKeyTask#0;class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedKeyTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedValueTask#0;class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedValueTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedEntryTask#0;class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedEntryTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ForEachTransformedMappingTask#0;class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ForEachTransformedMappingTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchKeysTask#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchValuesTask#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchEntriesTask#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#SearchMappingsTask#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#SearchMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ReduceKeysTask#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ReduceValuesTask#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#ReduceEntriesTask#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#ReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysTask#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesTask#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesTask#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsTask#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysToDoubleTask#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesToDoubleTask#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesToDoubleTask#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsToDoubleTask#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsToDoubleTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysToLongTask#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesToLongTask#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesToLongTask#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsToLongTask#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsToLongTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceKeysToIntTask#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceKeysToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceValuesToIntTask#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceValuesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceEntriesToIntTask#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceEntriesToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#MapReduceMappingsToIntTask#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#getRawResult#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#MapReduceMappingsToIntTask#0;class#ConcurrentHashMap#0" expanded="false" />
+            <element signature="initializer##0;class#ConcurrentHashMap#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3345725">
+          <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_INITIAL_CAPACITY#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#MAXIMUM_CAPACITY#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_LOAD_FACTOR#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#TREEIFY_THRESHOLD#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#UNTREEIFY_THRESHOLD#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#MIN_TREEIFY_CAPACITY#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#Node#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getKey#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getValue#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#toString#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#setValue#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="method#equals#0;class#Node#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#hash#0;class#HashMap#0" expanded="false" />
+            <element signature="method#hash#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#comparableClassFor#0;class#HashMap#0" expanded="false" />
+            <element signature="method#comparableClassFor#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#compareComparables#0;class#HashMap#0" expanded="false" />
+            <element signature="method#compareComparables#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#tableSizeFor#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tableSizeFor#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#table#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#entrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#size#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#modCount#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#threshold#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;field#loadFactor#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#0;class#HashMap#0" expanded="false" />
+            <element signature="method#HashMap#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#1;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#2;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#HashMap#3;class#HashMap#0" expanded="false" />
+            <element signature="method#HashMap#3;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putMapEntries#0;class#HashMap#0" expanded="false" />
+            <element signature="method#putMapEntries#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#getNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#containsKey#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#put#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putVal#0;class#HashMap#0" expanded="false" />
+            <element signature="method#putVal#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#resize#0;class#HashMap#0" expanded="false" />
+            <element signature="method#resize#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#treeifyBin#0;class#HashMap#0" expanded="false" />
+            <element signature="method#treeifyBin#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putAll#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#HashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#removeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#removeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#containsValue#0;class#HashMap#0" expanded="false" />
+            <element signature="method#containsValue#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#keySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#keySet#0;class#HashMap#0" expanded="false" />
+            <element signature="class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#size#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#KeySet#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#values#0;class#HashMap#0" expanded="false" />
+            <element signature="class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#size#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#iterator#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#Values#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#entrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#entrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#size#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#clear#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#contains#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#spliterator#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getOrDefault#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replace#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replace#1;class#HashMap#0" expanded="false" />
+            <element signature="method#computeIfAbsent#0;class#HashMap#0" expanded="false" />
+            <element signature="method#computeIfPresent#0;class#HashMap#0" expanded="false" />
+            <element signature="method#compute#0;class#HashMap#0" expanded="false" />
+            <element signature="method#merge#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEach#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replaceAll#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#HashMap#0" expanded="false" />
+            <element signature="e#50734#50764#0" expanded="false" />
+            <element signature="method#clone#0;class#HashMap#0" expanded="false" />
+            <element signature="method#loadFactor#0;class#HashMap#0" expanded="false" />
+            <element signature="method#capacity#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#HashMap#0" expanded="false" />
+            <element signature="method#writeObject#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#HashMap#0" expanded="false" />
+            <element signature="method#readObject#0;class#HashMap#0" expanded="false" />
+            <element signature="e#53153#53179#0" expanded="false" />
+            <element signature="class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#HashIterator#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#nextNode#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#remove#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#KeyIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#next#0;class#KeyIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#ValueIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#next#0;class#ValueIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#EntryIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#next#0;class#EntryIterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#HashMapSpliterator#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#getFence#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#estimateSize#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#KeySpliterator#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#ValueSpliterator#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#EntrySpliterator#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#trySplit#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#forEachRemaining#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tryAdvance#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#characteristics#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
+            <element signature="method#newTreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#replacementTreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#reinitialize#0;class#HashMap#0" expanded="false" />
+            <element signature="method#reinitialize#0;class#HashMap#0" expanded="false" />
+            <element signature="method#internalWriteEntries#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#root#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#root#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#moveRootToFront#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#moveRootToFront#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#find#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#find#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#getTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#tieBreakOrder#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#tieBreakOrder#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#treeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#treeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#untreeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#untreeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#putTreeVal#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#putTreeVal#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#removeTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#removeTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#split#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#split#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#rotateLeft#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#rotateRight#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#balanceInsertion#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#balanceDeletion#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="docComment;method#checkInvariants#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+            <element signature="method#checkInvariants#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Receiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40520447">
+          <caret line="44" column="5" selection-start-line="43" selection-start-column="51" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MessageInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18587361">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07434944">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BaseConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51672864">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
